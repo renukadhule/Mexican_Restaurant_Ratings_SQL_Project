@@ -3,6 +3,10 @@
 ## Project Overview
 This project analyzes restaurant performance and customer behavior using SQL. It combines data on customer ratings, preferences, and restaurant details to uncover insights like top-rated restaurants, popular cuisines, and customer trends. The analysis helps restaurants understand what factors influence customer satisfaction and loyalty, offering valuable insights to improve service and meet customer expectations.
 
+## Technologies & Tools
+**SQL:** Language for querying the database and analyzing data.</br>
+**MySQL:** A relational database for efficient data storage and management.
+
 ## Objectives
 - Analyze Ratings: Check customer ratings for trends.
 - Identify Cuisines: See which cuisines are popular.
