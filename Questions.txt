@@ -1,25 +1,27 @@
-List all restaurants that serve alcohol and allow smoking.
-Total Smokers by Occupation.
-List the top 3 cities with the most restaurants.
-Total restaurants in each state.
-List the top 5 highest-rated restaurants based on overall rating.
-Retrieve all the details of customers who are smokers and prefer 'Italian' cuisine.
-Find all restaurants located in the same city and state as 'Customer_ID = U1015'.
-Find the restaurant with the highest average food rating.
-List all restaurants that do not serve alcohol and have parking available.
-Find customers who have rated restaurants but do not have any preferences listed.
-Transportation methods of customers.
-Total restaurants in each city.
-Restaurants COUNT by alcohol service.
-Restaurants Count by Smoking Allowed.
-Alcohol & Smoking analysis .
-Restaurants COUNT by Price
-Write a query to segment customers into three groups based on their average Overall_Rating: "High Raters" (average rating > 4),
-"Medium Raters" (average rating between 3 and 4), and "Low Raters" (average rating < 3).
-Restaurants COUNT by parking.
-Count of Restaurants by cuisines.
-Preferred cuisines of each customer.
-Write a query to find customers whose Occupation is not null but starts with the letter 'A'.
-Write a query to rank restaurants based on the number of ratings they've received,but only include restaurants that have received
-at least one Overall_Rating.Use a window function to rank these restaurants, even if they have NULL ratings in other categories.
-Classify restaurants into three categories: "Fully Rated" (no nulls in any ratings), "Partially Rated" (some but not all ratings are null), and "Unrated" (all ratings are null).
+- List all restaurants that serve alcohol and allow smoking.
+- Total Smokers by Occupation.
+- List the top 3 cities with the most restaurants.
+- Total restaurants in each state.
+- List the top 5 highest-rated restaurants based on overall rating.
+- Retrieve all the details of customers who are smokers and prefer 'Italian' cuisine.
+- Find all restaurants located in the same city and state as 'Customer_ID = U1015'.
+- Find the restaurant with the highest average food rating.
+- List all restaurants that do not serve alcohol and have parking available.
+- Find customers who have rated restaurants but do not have any preferences listed.
+- Transportation methods of customers.
+- Total restaurants in each city.
+- Restaurants COUNT by alcohol service.
+- Restaurants Count by Smoking Allowed.
+- Alcohol & Smoking analysis .
+- Restaurants COUNT by Price
+- Write a query to segment customers into three groups based on their average Overall_Rating: "High Raters" (average rating> 
+  4),"Medium Raters" (average rating between 3 and 4), and "Low Raters" (average rating < 3).
+- Restaurants COUNT by parking.
+- Count of Restaurants by cuisines.
+- Preferred cuisines of each customer.
+- Write a query to find customers whose Occupation is not null but starts with the letter 'A'.
+- Write a query to rank restaurants based on the number of ratings they've received,but only include restaurants that have 
+ received at least one Overall_Rating.Use a window function to rank these restaurants, even if they have NULL ratings in 
+ other categories.
+- Classify restaurants into three categories: "Fully Rated" (no nulls in any ratings), "Partially Rated" (some but not all 
+  ratings are null), and "Unrated" (all ratings are null).
