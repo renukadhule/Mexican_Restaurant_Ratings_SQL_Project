@@ -20,7 +20,9 @@ This project analyzes restaurant performance and customer behavior using SQL. It
 
 <img src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q1.png" alt="Q1.png" width="400"/> &nbsp;
 
+2.Total Smokers by Occupation
 
+<img src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q2.png" alt="Q2.png" width="400"/> &nbsp;
 
 
 
