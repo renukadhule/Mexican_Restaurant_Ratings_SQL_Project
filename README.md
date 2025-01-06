@@ -13,6 +13,17 @@ This project analyzes restaurant performance and customer behavior using SQL. It
 - Understand Customers: Learn about customer demographics.
 - Evaluate Performance: Find out what affects satisfaction.
 - Make Recommendations: Suggest improvements for restaurants.
+  
+## Query Task
+
+1.List all restaurants that serve alcohol and allow smoking.
+
+<img src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q1.png" alt="Q1.png" width="400"/> &nbsp;
+
+
+
+
+
 
 ## Recommendations
 **Expand Menu :**  Offer more popular cuisines.</br>
