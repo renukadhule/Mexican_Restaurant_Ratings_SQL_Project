@@ -2,7 +2,7 @@ CREATE DATABASE restaurant_rating;
 Use restaurant_rating
 
 ALTER TABLE restaurants
-RENAME COLUMN ï»¿Restaurant_ID TO Restaurant_ID;
+RENAME COLUMN Restaurant_ID TO Restaurant_ID;
 
 -- List all restaurants that serve alcohol and allow smoking. --
 SELECT 
