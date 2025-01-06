@@ -32,6 +32,19 @@ This project analyzes restaurant performance and customer behavior using SQL. It
 
 <img src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q4.png" alt="Q4.png" width="400"/> &nbsp;
 
+5.List the top 5 highest-rated restaurants based on overall rating.
+
+<img src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q5.png" alt="Q5.png" width="400"/> &nbsp;
+
+6.Retrieve all the details of customers who are smokers and prefer 'Italian' cuisine.
+
+<img src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q6.png" alt="Q6.png" width="400"/> &nbsp;
+
+7.Find all restaurants located in the same city and state as 'Customer_ID = C123'.
+
+<img src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q7.png" alt="Q7.png" width="400"/> &nbsp;
+
+
 ## Recommendations
 **Expand Menu :**  Offer more popular cuisines.</br>
 **Run Promotions:**  Use discounts to attract customers.</br>
