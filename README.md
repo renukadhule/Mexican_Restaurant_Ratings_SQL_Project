@@ -24,8 +24,13 @@ This project analyzes restaurant performance and customer behavior using SQL. It
 
 <img src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q2.png" alt="Q2.png" width="400"/> &nbsp;
 
+3.List the top 3 cities with the most restaurants.
 
+<img src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q3.png" alt="Q3.png" width="400"/> &nbsp;
 
+4.Total restaurants in each state.
+
+<img src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q4.png" alt="Q4.png" width="400"/> &nbsp;
 
 ## Recommendations
 **Expand Menu :**  Offer more popular cuisines.</br>
