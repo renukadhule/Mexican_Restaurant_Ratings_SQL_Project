@@ -40,10 +40,21 @@ This project analyzes restaurant performance and customer behavior using SQL. It
 
 <img src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q6.png" alt="Q6.png" width="400"/> &nbsp;
 
-7.Find all restaurants located in the same city and state as 'Customer_ID = C123'.
+7.Find the restaurant with the highest average food rating.
 
 <img src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q7.png" alt="Q7.png" width="400"/> &nbsp;
 
+8.Total number of resturants present in each city.
+
+<img src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q8.png" alt="Q8.png" width="400"/> &nbsp;
+
+9.List all restaurants that do not serve alcohol and have parking available.
+
+<img src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q9.png" alt="Q9.png" width="400"/> &nbsp;
+
+10.Transportation methods of customers 
+
+<img src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q10.png" alt="Q10.png" width="400"/> &nbsp;
 
 ## Recommendations
 **Expand Menu :**  Offer more popular cuisines.</br>
