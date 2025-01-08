@@ -108,5 +108,5 @@ at least one Overall_Rating.Use a window function to rank these restaurants.
 **Engage on Social Media:**  Connect with customers online.</br>
 **Enhance Ambiance:**  Create a comfortable and inviting atmosphere
 
-## Conclusion
-This project utilized MySQL and SQL to analyze customer behavior and restaurant performance. It revealed insights into popular cuisines and factors affecting satisfaction, providing restaurant owners with actionable recommendations to enhance services and boost customer loyalty.
+## Conclusion.
+By analyzing ratings, we can offer high-quality food, provide excellent service, and create an environment that customers will like. Additional amenities like parking can further enhance customer satisfaction and ratings.
