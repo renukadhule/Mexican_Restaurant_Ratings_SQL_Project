@@ -70,33 +70,33 @@ This project analyzes restaurant performance and customer behavior using SQL. It
 
 14.Alcohol & Smoking analysis 
 
-src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q14.png" alt="Q14.png" width="400"/> &nbsp;
+<img src="https://github.com/renukadhule/Mexican_Restaurant_Ratings_SQL_Project/blob/main/Images/Q14.png" alt="Q14.png" width="400"/> &nbsp;
 
 15.Restaurants COUNT by Price
 
-src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q15.png" alt="Q15.png" width="400"/> &nbsp;
+<img src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q15.png" alt="Q15.png" width="400"/> &nbsp;
 
 16. Write a query to segment customers into three groups based on their average Overall_Rating: "High Raters" (average rating > 4),
 "Medium Raters" (average rating between 3 and 4), and "Low Raters" (average rating < 3).
 
-src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q16.png" alt="Q16.png" width="400"/> &nbsp;
+<img src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q16.png" alt="Q16.png" width="400"/> &nbsp;
 
 17.Restaurants COUNT by parking
 
-src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q17.png" alt="Q17.png" width="400"/> &nbsp;
+<img src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q17.png" alt="Q17.png" width="400"/> &nbsp;
 
 18.Count of Restaurants by cuisines
 
-src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q18.png" alt="Q18.png" width="400"/> &nbsp;
+<img src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q18.png" alt="Q18.png" width="400"/> &nbsp;
 
 19.Preferred cuisines of each customer
 
-src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q19.png" alt="Q19.png" width="400"/> &nbsp;
+<img src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q19.png" alt="Q19.png" width="400"/> &nbsp;
 
 20.Write a query to rank restaurants based on the number of ratings they've received,but only include restaurants that have received
 at least one Overall_Rating.Use a window function to rank these restaurants.
 
-src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q20.png" alt="Q20.png" width="400"/> &nbsp;
+<img src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q20.png" alt="Q20.png" width="400"/> &nbsp;
 
 
 
