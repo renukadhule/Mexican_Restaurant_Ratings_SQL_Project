@@ -99,6 +99,7 @@ at least one Overall_Rating.Use a window function to rank these restaurants.
 src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q20.png" alt="Q20.png" width="400"/> &nbsp;
 
 
+
 ## Recommendations
 **Expand Menu :**  Offer more popular cuisines.</br>
 **Run Promotions:**  Use discounts to attract customers.</br>
