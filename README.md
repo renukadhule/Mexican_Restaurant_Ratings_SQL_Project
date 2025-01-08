@@ -37,7 +37,7 @@ This project analyzes restaurant performance and customer behavior using SQL. It
 
 6.Retrieve all the details of customers who are smokers and prefer 'Italian' cuisine.
 
-<img src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q6.png" alt="Q6.png" width="400"/> &nbsp;
+<img src="https://github.com/renukadhule/Restaurant_Ratings_SQL_Project/blob/main/Images/Q6.png" alt="Q6.png" width="900"/> &nbsp;
 
 7.Find the restaurant with the highest average food rating.
 
