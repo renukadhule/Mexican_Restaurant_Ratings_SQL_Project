@@ -11,7 +11,6 @@ This project analyzes restaurant performance and customer behavior using SQL. It
 - Analyze Ratings: Check customer ratings for trends.
 - Identify Cuisines: See which cuisines are popular.
 - Understand Customers: Learn about customer demographics.
-- Evaluate Performance: Find out what affects satisfaction.
 - Make Recommendations: Suggest improvements for restaurants.
   
 ## Query Task
