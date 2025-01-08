@@ -25,3 +25,4 @@
  other categories.
 - Classify restaurants into three categories: "Fully Rated" (no nulls in any ratings), "Partially Rated" (some but not all 
   ratings are null), and "Unrated" (all ratings are null).
+- What are the consumer demographics? Does this indicate a bias in the data sample?
